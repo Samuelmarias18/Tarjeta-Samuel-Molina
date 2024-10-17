@@ -1,0 +1,20 @@
+.Tarjeta{
+    width: 500px;
+    height: 200px;
+    border: solid;
+        text-align: center;
+    box-decoration-break: slice;
+    margin-left: 740px;
+    background-color: rgb(235, 222, 201);
+    outline-style: dashed;
+       padding: 15px;
+       box-shadow: 0 0 10px red;
+
+}
+
+.Titulo{
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+    
+}
